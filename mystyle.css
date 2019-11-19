@@ -1,0 +1,20 @@
+ul {
+	LIST-STYLE-TYPE: NONE;
+	MARGIN: 0;
+	PADDING: 0;
+}
+a {
+	color:#880033;
+	text-decoration: none;
+}
+body{
+	background-color:white;
+	background image: url("seamless-background.png");
+	font-fanily: "Comic Sans MS", Helvetica, sans-serif;
+	font-size: 14px;
+	color: #B03060;
+}
+h1 {
+	color: gray;
+	font-size: 24px;
+}
